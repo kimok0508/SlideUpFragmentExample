@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SlideUpFragmentExample</string>
+    <string name="main_login">Sign In</string>
+    <string name="main_register">Sign Up</string>
 </resources>
